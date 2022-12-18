@@ -1,1 +1,1 @@
-# Cat-vs-Dog-Classification-Keras-OpenCV
+# Cat vs DogRecognition Keras OpenCv
