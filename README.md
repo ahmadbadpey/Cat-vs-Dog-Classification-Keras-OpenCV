@@ -1,1 +1,1 @@
-# Cat vs DogRecognition Keras OpenCv
+# Cat vs Dog Recognition Keras OpenCv
